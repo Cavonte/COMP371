@@ -41,4 +41,4 @@ GraphicsEngine
 * Single header image texture loading lib: https://github.com/nothings/stb/blob/master/stb_image.h
 * Texturing tutorial: https://learnopengl.com/#!Getting-started/Textures
 * More sources available in the Report document
-* Initial Report is here [here](https://docs.google.com/document/d/1g92dKkl_skenO66iRo6fSTeJ3uzsULvn_BqmgtTsltA/edit?usp=sharing).
+* Initial Report is [here](https://docs.google.com/document/d/1g92dKkl_skenO66iRo6fSTeJ3uzsULvn_BqmgtTsltA/edit?usp=sharing).
